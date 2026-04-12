@@ -1,0 +1,340 @@
+﻿Paper No.,Citation,Photocatalyst type,Photocatalyst category,Membrane materials,Membrane type,PPCPs,logP,MW,SMILES,Original concentration (mg/L),pH,Dark time,Light time,Light frequency,Hybrid methods,Removal efficiency (%),Removal efficiency
+2,"Oliveira et al., 2022","TiO2, GO",Single + 2D,PSF,MF,LOR,5.2,382.9,CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1,0.001,6,0,90,UV,self-assembly,50,0.5
+2,"Oliveira et al., 2022","TiO2, GO",Single + 2D,PSF,MF,PRE,1.46,358.4,CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C,0.001,6,0,90,UV,self-assembly,60,0.6
+2,"Oliveira et al., 2022","TiO2, GO",Single + 2D,PSF,MF,FEN,5.2,360.8,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,0.001,6,0,90,UV,self-assembly,85.5,0.855
+2,"Oliveira et al., 2022","TiO2, GO",Single + 2D,PSF,MF,BET,1.94,392.5,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,0.001,6,0,90,UV,self-assembly,88,0.88
+2,"Oliveira et al., 2022","TiO2, GO",Single + 2D,PSF,MF,KET,3.12,254.28,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,0.001,6,0,90,UV,self-assembly,93,0.93
+4,"Li et al., 2022","g-C3N4, QDs, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,10,3,30,240,visible,vacuum filtration,65,0.65
+4,"Li et al., 2022","g-C3N4, QDs, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,10,5,30,240,visible,vacuum filtration,80,0.8
+4,"Li et al., 2022","g-C3N4, QDs, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,10,7,30,240,visible,vacuum filtration,100,1
+4,"Li et al., 2022","g-C3N4, QDs, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,10,9,30,180,visible,vacuum filtration,100,1
+4,"Li et al., 2022","g-C3N4, QDs, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,10,11,30,240,visible,vacuum filtration,100,1
+4,"Li et al., 2022","g-C3N4, QDs, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,10,13,30,240,visible,vacuum filtration,98,0.98
+5,"Singh et al., 2020","TiO2, HAP",Single,PSF,NF,CAP,1.14,323.13,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],50,7,0,120,UV,phase inversion,61.6,0.616
+7,"Cui et al., 2021","Fe3O4, TiO2",Heterojunction,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,180,visible,phase inversion,69.8,0.698
+8,"Sanches et al., 2016",TiO2,Single,Ceramics,UF,diuron,2.68,233.09,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,1,7,0,180,UV,sol-gel,75,0.75
+8,"Sanches et al., 2016",TiO2,Single,Ceramics,UF,CFVP,3.81,359.6,CCOP(=O)(OCC)OC(=CCl)C1=C(C=C(C=C1)Cl)Cl,1,7,0,180,UV,sol-gel,78,0.78
+10,"Pastrana-Martı´nez et al., 2015","TiO2, GO",Single + 2D,Cellulosics,UF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,8.67,5.9,0,240,visible,vacuum filtration,28,0.28
+10,"Pastrana-Martı´nez et al., 2015",TiO2,Single,Cellulosics,UF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,8.67,5.9,0,240,visible,vacuum filtration,27,0.27
+10,"Pastrana-Martı´nez et al., 2015","TiO2, GO",Single + 2D,Cellulosics,UF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,8.67,5.9,0,240,UV,vacuum filtration,73,0.73
+10,"Pastrana-Martı´nez et al., 2015",TiO2,Single,Cellulosics,UF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,8.67,5.9,0,240,UV,vacuum filtration,73,0.73
+11,"Yu et al., 2018","g-C3N4, TiO2",Heterojunction,PSF,UF,SMZ,0.89,253.28,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,10,7,0,1800,full,phase inversion,69,0.69
+12,"Meng et al., 2021",Ag3PO4,Single,PSF,NF,SMZ,0.89,253.28,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,10,7,0,300,visible,dip-coating,85,0.85
+12,"Meng et al., 2021",Ag3PO4,Single,PSF,NF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,0,300,visible,dip-coating,95,0.95
+12,"Meng et al., 2021","AgBr, Ag3PO4",Heterojunction,PSF,NF,SMZ,0.89,253.28,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,10,7,0,300,visible,dip-coating,95,0.95
+12,"Meng et al., 2021","AgBr, Ag3PO4",Heterojunction,PSF,NF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,0,300,visible,dip-coating,95,0.95
+15,"Noor et al., 2022",Cu2O,Single,PVDF,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,8,0,360,visible,phase inversion,75,0.75
+16,"Deba et al., 2022",TiO2,Single,Ceramics,UF,MTP,1.88,267.36,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,1,8,0,120,UV,dip-coating,85,0.85
+16,"Deba et al., 2022",TiO2,Single,Ceramics,UF,INN,-2.42,777.1,CC(C(=O)NC1=C(C(=C(C(=C1I)C(=O)NC(CO)CO)I)C(=O)NC(CO)CO)I)O,1,8,0,120,UV,dip-coating,97,0.97
+16,"Deba et al., 2022",TiO2,Single,Ceramics,UF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,2,8,0,120,UV,dip-coating,97,0.97
+18,"Huang et al., 2019",g-C3N4,Single,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,0,360,visible,vacuum filtration,71.3,0.713
+20,"Aoudjit et al., 2022",TiO2,Single,PVDF,UF,NFA,4.43,282.22,C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F,10,3,0,360,full,phase inversion,80,0.8
+20,"Aoudjit et al., 2022",TiO2,Single,PVDF,UF,NFA,4.43,282.22,C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F,10,7,0,360,full,phase inversion,91,0.91
+20,"Aoudjit et al., 2022",TiO2,Single,PVDF,UF,NFA,4.43,282.22,C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F,10,9,0,360,full,phase inversion,91,0.91
+20,"Aoudjit et al., 2022",TiO2,Single,PVDF,UF,NFA,4.43,282.22,C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F,20,7,0,360,full,phase inversion,70,0.7
+20,"Aoudjit et al., 2022",TiO2,Single,PVDF,UF,NFA,4.43,282.22,C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F,30,7,0,360,full,phase inversion,59,0.59
+21,"Li et al., 2019",TiO2,Single,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,0,120,visible,phase inversion,16.8,0.168
+21,"Li et al., 2019","TiO2, Au",Single + metal,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,0,120,visible,phase inversion,59.7,0.597
+21,"Li et al., 2019","TiO2, Ag",Single + metal,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,0,120,visible,phase inversion,29.5,0.295
+22,"Guo et al., 2022",None,No photocatalyst,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,90,visible,phase inversion,0,0
+22,"Guo et al., 2022","TiO2, Bi3O4Cl",Heterojunction,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,90,visible,phase inversion,83,0.83
+22,"Guo et al., 2022",None,No photocatalyst,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,90,visible,phase inversion,0,0
+22,"Guo et al., 2022","TiO2, Bi3O4Cl",Heterojunction,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,90,visible,phase inversion,88.9,0.889
+23,"Szymański et al., 2023",TiO2,Single,PVDF,UF,KET,3.12,254.28,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,10,7,0,300,UV,phase inversion,75,0.75
+24,"Yan et al., 2021","TiO2, Au",Single + metal,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,120,visible,phase inversion,75,0.75
+26,"Espíndola et al., 2019",TiO2,Single,Ceramics,MF,OTC,-0.9,460.4,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O,5,7.5,0,180,UV,dip-coating,90,0.9
+27,"Kamaludin et al., 2022",TiO2,Single,PVDF,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,5,7,0,360,visible,phase inversion,72.5,0.725
+28,"Wang et al., 2021","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,7.5,0,120,UV,phase inversion,92.6,0.926
+29,"Wang et al., 2017","TiO2, Au",Single + metal,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,120,visible,vacuum filtration,92,0.92
+32,"Boopathy et al., 2020","GO, ZnO",Single + 2D,PES,NF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,0,240,UV,phase inversion,95.1,0.951
+33,"Koe et al., 2020",TiO2,Single,PSF,UF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,10,7,30,120,visible,phase inversion,15,0.15
+33,"Koe et al., 2020","TiO2, CQDs",Single + 2D,PSF,UF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,10,7,30,120,visible,phase inversion,62.3,0.623
+33,"Koe et al., 2020",TiO2,Single,PSF,UF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,10,7,30,120,UV,phase inversion,20,0.2
+33,"Koe et al., 2020","TiO2, CQDs",Single + 2D,PSF,UF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,10,7,30,120,UV,phase inversion,55,0.55
+34,"Li et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,NAP,3.18,230.26,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,0.05,6,0,120,UV,vacuum filtration,100,1
+34,"Li et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,0.05,6,0,120,UV,vacuum filtration,90,0.9
+34,"Li et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0.05,6,0,120,UV,vacuum filtration,100,1
+37,"Lin et al., 2022","Mxene, g-C3N4, CS",Single + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,5,0,480,visible,vacuum filtration,93.4,0.934
+38,"Wan et al., 2021","g-C3N4, Bi2MoO6",Heterojunction,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,6,0,120,visible,vacuum filtration,67.9,0.679
+39,"Luo et al., 2021","BiOBr, TiO2, CQDs",Heterojunction + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,0,120,visible,phase inversion,77,0.77
+41,"Wang et al., 2020","g-C3N4, PI",Single + 2D,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,5,7,0,20,visible,phase inversion,100,1
+41,"Wang et al., 2020","g-C3N4, PI",Single + 2D,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,7,0,20,visible,phase inversion,93,0.93
+41,"Wang et al., 2020","g-C3N4, PI",Single + 2D,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,20,7,0,20,visible,phase inversion,65,0.65
+41,"Wang et al., 2020","g-C3N4, PI",Single + 2D,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,30,7,0,20,visible,phase inversion,50,0.5
+41,"Wang et al., 2020","g-C3N4, PI",Single + 2D,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,3,0,60,visible,phase inversion,100,1
+41,"Wang et al., 2020","g-C3N4, PI",Single + 2D,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,11,0,20,visible,phase inversion,100,1
+43,"Shareef et al., 2020","TiO2, Ag",Single + metal,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,7,0,270,visible,dip-coating,88,0.88
+44,Dzinun. 2016,TiO2,Single,PVDF,UF,NP,5.76,220.35,CCCCCCCCCC1=CC=C(C=C1)O,10,7,0,150,UV,phase inversion,92.5,0.925
+46,"Cui et al., 2021",None,No photocatalyst,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,120,visible,phase inversion,20,0.2
+46,"Cui et al., 2021","BiOI, Ti",Single + metal,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,120,visible,phase inversion,98,0.98
+47,"Luster et al., 2017",TiO2,Single,Ceramics,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,1,7,0,120,visible,dip-coating,50,0.5
+48,"Rosman et al., 2022",None,No photocatalyst,PVDF,UF,IBU,3.97,206.28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,10,7,0,60,visible,phase inversion,20,0.2
+48,"Rosman et al., 2022","ZnO, Ag2CO3, Ag2O",Single + metal,PVDF,UF,IBU,3.97,206.28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,10,7,0,60,visible,phase inversion,44,0.44
+49,"Zong et al., 2021",NiAlFe layered double hydroxide (LDH),Single + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,30,20,UV,self-assembly,100,1
+50,"Li et al., 2022",ZnO,Single,Cellulosics,MF,aniline,0.9,93.13,C1=CC=C(C=C1)N,20,7,0,280,full,vacuum filtration,82.4,0.824
+50,"Li et al., 2022",ZnO,Single,Cellulosics,MF,phenol,1.46,94.11,C1=CC=C(C=C1)O,20,7,0,280,full,vacuum filtration,100,1
+51,"Zeng et al., 2022","g-C3N4, Mxene",Single + 2D,PES,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,480,full,vacuum filtration,86,0.86
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,testosterone,3.32,288.4,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C,10,8.6,0,0.02,UV,dip-coating,33,0.33
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,progesterone,3.87,314.5,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,10,8.6,0,0.02,UV,dip-coating,44,0.44
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.02,UV,dip-coating,80,0.8
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E1,3.13,270.4,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.02,UV,dip-coating,80,0.8
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.02,UV,dip-coating,20,0.2
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.1,UV,dip-coating,94,0.94
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.6,UV,dip-coating,45,0.45
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.6,UV,dip-coating,40,0.4
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.6,0,0.6,UV,dip-coating,49,0.49
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.001,8.6,0,0.6,UV,dip-coating,53,0.53
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.01,8.6,0,0.6,UV,dip-coating,38,0.38
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.1,8.6,0,0.6,UV,dip-coating,35,0.35
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,1,8.6,0,0.6,UV,dip-coating,18,0.18
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,2,0,0.6,UV,dip-coating,48,0.48
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,4,0,0.6,UV,dip-coating,32,0.32
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,6,0,0.6,UV,dip-coating,35,0.35
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8,0,0.6,UV,dip-coating,51,0.51
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,8.8,0,0.6,UV,dip-coating,40,0.4
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,9,0,0.6,UV,dip-coating,55,0.55
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,10,0,0.6,UV,dip-coating,62,0.62
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,11,0,0.6,UV,dip-coating,40,0.4
+52,"Lotfi et al., 2022",TiO2,Single,PES,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,10,12,0,0.6,UV,dip-coating,20,0.2
+56,"Aoudjit et al., 2021","TiO2, Ag",Single + metal,PVDF,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],10,3,0,300,full,phase inversion,88.9,0.889
+56,"Aoudjit et al., 2021","TiO2, Ag",Single + metal,PVDF,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],10,9,0,300,full,phase inversion,94.5,0.945
+56,"Aoudjit et al., 2021","TiO2, Ag",Single + metal,PVDF,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],10,7,0,300,full,phase inversion,100,1
+56,"Aoudjit et al., 2021","TiO2, Ag",Single + metal,PVDF,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],20,7,0,300,full,phase inversion,92.6,0.926
+56,"Aoudjit et al., 2021","TiO2, Ag",Single + metal,PVDF,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,7,0,300,full,phase inversion,92.6,0.926
+57,"Yang et al., 2021",None,No photocatalyst,PVDF,UF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,6,30,180,visible,phase inversion,43,0.43
+57,"Yang et al., 2021",Fe(III)-TiO2,Single + metal,PVDF,UF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,6,30,180,visible,phase inversion,69.9,0.699
+58,"Wang et al., 2017","TiO2, Fe",Single + metal,PSF,UF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,7,0,180,visible,phase inversion,90.8,0.908
+59,"Gokula Krishnan et al., 2022","Bi2WO6, CeO2",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,90,visible,phase inversion,82,0.82
+60,"Zhang et al., 2022",None,No photocatalyst,Polyacrylates,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,15,6,40,180,visible,electrospinning,25.7,0.257
+60,"Zhang et al., 2022","Bi2MoO6, Ti3C2",Heterojunction,Polyacrylates,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,15,6,40,180,visible,electrospinning,90.3,0.903
+66,"Dzinun et al., 2017",TiO2,Single,PVDF,MF,NP,5.76,220.35,CCCCCCCCCC1=CC=C(C=C1)O,100,7,0,300,UV,phase inversion,87,0.87
+67,"Lumbaque et al., 2020​",TiO2 ,Single,Ceramics,UF,PCT,0.46,151.16,CC(=O)NC1=CC=C(C=C1)O,0.2,6.4,0,6.4,UV,dip-coating,27.4,0.274
+67,"Lumbaque et al., 2020​",TiO2 ,Single,Ceramics,UF,FRS,2.03,330.74,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,0.2,6.4,0,11.2,UV,dip-coating,35,0.35
+67,"Lumbaque et al., 2020​",TiO2 ,Single,Ceramics,UF,NMD,2.6,308.31,CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2,0.2,6.4,0,12.8,UV,dip-coating,24.2,0.242
+67,"Lumbaque et al., 2020​",TiO2 ,Single,Ceramics,UF,DZP,2.82,284.74,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,0.2,6.4,0,13.5,UV,dip-coating,30,0.3
+70,"Wang et al., 2022",None,No photocatalyst,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,200,visible,vacuum filtration,0,0
+70,"Wang et al., 2022","ZnO, g-C3N4",Single + 2D,PVDF,UF,OFLX,-0.39,361.4,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,10,7,0,200,visible,vacuum filtration,50,0.5
+70,"Wang et al., 2022","ZnO, g-C3N4",Single + 2D,PVDF,UF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,0,200,visible,vacuum filtration,60,0.6
+70,"Wang et al., 2022","ZnO, g-C3N4",Single + 2D,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,7,0,200,visible,vacuum filtration,100,1
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,200,visible,vacuum filtration,80,0.8
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,15,7,0,200,visible,vacuum filtration,65,0.65
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,200,visible,vacuum filtration,60,0.6
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,25,7,0,200,visible,vacuum filtration,55,0.55
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,40,7,0,200,visible,vacuum filtration,44,0.44
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,2,0,200,visible,vacuum filtration,57.3,0.573
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,5.4,0,200,visible,vacuum filtration,61.4,0.614
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,200,visible,vacuum filtration,65.2,0.652
+70,"Wang et al., 2022","ZnO, g-C3N4",Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,9,0,200,visible,vacuum filtration,72.1,0.721
+71,"Martins et al., 2022","TiO2, Au",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,7,0,120,visible,phase inversion,75,0.75
+71,"Martins et al., 2022","TiO2, Au",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,7,0,300,visible,phase inversion,97,0.97
+71,"Martins et al., 2022","TiO2, Au, Y2(CO3)3",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,7,0,120,UV,phase inversion,57,0.57
+71,"Martins et al., 2022","TiO2, Au",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,7,0,120,UV,phase inversion,72,0.72
+73,"Qing et al., 2022",None,No photocatalyst,PA,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,3,3,180,240,visible,vacuum filtration,80,0.8
+73,"Qing et al., 2022","Bi2WO6, g-C3N4",Heterojunction,PA,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,3,3,180,240,visible,vacuum filtration,99.5,0.995
+73,"Qing et al., 2022","Bi2WO6, g-C3N4",Heterojunction,PA,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,3,5,180,240,visible,vacuum filtration,99.5,0.995
+73,"Qing et al., 2022","Bi2WO6, g-C3N4",Heterojunction,PA,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,3,6.4,180,240,visible,vacuum filtration,85,0.85
+73,"Qing et al., 2022","Bi2WO6, g-C3N4",Heterojunction,PA,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,3,9,180,240,visible,vacuum filtration,90,0.9
+73,"Qing et al., 2022","Bi2WO6, g-C3N4",Heterojunction,PA,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,3,11,180,240,visible,vacuum filtration,90,0.9
+74,"Yang et al., 2022","g-C3N4, BiOBr/BiOI",Heterojunction,Ceramics,NF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,6,0,120,visible,electrospinning,100,1
+76,"Popa et al., 2021",ZnO,Single,PVDF,MF,OTC,-0.9,460.4,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O,40,6,0,300,UV,sol-gel,71,0.71
+77,"Dekkouche et al., 2022",TiO2,Single,PVDF,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0.3,6.5,1440,1440,UV,sol-gel,92,0.92
+77,"Dekkouche et al., 2022",TiO2,Single,PVDF,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.3,6.5,1440,1440,UV,sol-gel,94,0.94
+77,"Dekkouche et al., 2022",TiO2,Single,PTFE,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0.3,6.5,1440,1440,UV,sol-gel,89,0.89
+77,"Dekkouche et al., 2022",TiO2,Single,PTFE,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.3,6.5,1440,1440,UV,sol-gel,92,0.92
+77,"Dekkouche et al., 2022",TiO2,Single,PSF,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0.3,6.5,1440,1440,UV,sol-gel,93,0.93
+77,"Dekkouche et al., 2022",TiO2,Single,PSF,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.3,6.5,1440,1440,UV,sol-gel,96,0.96
+79,"Zheng et al., 2023",None,No photocatalyst,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,5,3,0,300,visible,phase inversion,12,0.12
+79,"Zheng et al., 2023","TiO2, Au",Single + metal,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,5,3,0,300,UV,phase inversion,45,0.45
+79,"Zheng et al., 2023","TiO2, Au",Single + metal,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,5,3,0,300,visible,phase inversion,35,0.35
+81,"Li et al., 2017","GO, Bi2WO6",Single + 2D,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,0,450,visible,phase inversion,60,0.6
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,3.03,0,120,UV,phase inversion,98,0.98
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,3.62,0,120,UV,phase inversion,90.1,0.901
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,3.97,0,120,UV,phase inversion,86.5,0.865
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,4.18,0,120,UV,phase inversion,84,0.84
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,5.07,0,120,UV,phase inversion,77.2,0.772
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,5.94,0,120,UV,phase inversion,62.2,0.622
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,6.5,0,120,UV,phase inversion,78.9,0.789
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,7.06,0,120,UV,phase inversion,82.3,0.823
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,7.93,0,120,UV,phase inversion,84.1,0.841
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,8.49,0,120,UV,phase inversion,86.7,0.867
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,9.13,0,120,UV,phase inversion,87.7,0.877
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,9.97,0,120,UV,phase inversion,87.8,0.878
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,10.97,0,120,UV,phase inversion,92.2,0.922
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,11.98,0,120,UV,phase inversion,94.7,0.947
+82,"Zhou et al., 2020","TiO2, FeCl3",Single + metal,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,12.01,0,120,UV,phase inversion,95.4,0.954
+84,"Salazar et al., 2020","TiO2, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,6,0,300,visible,electrospinning,57.6,0.576
+84,"Salazar et al., 2020",None,No photocatalyst,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,6,0,90,UV,electrospinning,14.7,0.147
+84,"Salazar et al., 2020",TiO2,Single,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,6,0,90,UV,electrospinning,45.2,0.452
+84,"Salazar et al., 2020","TiO2, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,6,0,90,UV,electrospinning,64.2,0.642
+84,"Salazar et al., 2020",TiO2,Single,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,6,0,90,UV,electrospinning,44.8,0.448
+84,"Salazar et al., 2020","TiO2, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,6,0,90,UV,electrospinning,51,0.51
+84,"Salazar et al., 2020",None,No photocatalyst,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,7,0,300,visible,phase inversion,0.9,0.009
+84,"Salazar et al., 2020","TiO2, Ag",Single + metal,PVDF,MF,NOR,0.46,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,5,7,0,300,visible,phase inversion,80.7,0.807
+85,"Dzinun et al., 2018",TiO2,Single,PVDF,MF,NP,5.76,220.35,CCCCCCCCCC1=CC=C(C=C1)O,100,7,0,720,UV,electrospinning,100,1
+86,"Cheng et al., 2022","MXene, BiOCl-Ppy",Single + 2D,PES,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,480,visible,vacuum filtration,96,0.96
+87,"Martins et al., 2019",TiO2,Single,PVDF,MF,IBU,3.97,206.28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,15,7,0,300,UV,phase inversion,48,0.48
+87,"Martins et al., 2019",TiO2,Single,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,5,7,0,300,UV,phase inversion,95,0.95
+88,"Chakraborty et al., 2017",None,No photocatalyst,PES,UF,CHD,0.08,897.8,C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl.C(C(C(C(C(C(=O)O)O)O)O)O)O.C(C(C(C(C(C(=O)O)O)O)O)O)O,1000,7,0,230,full,sol-gel,15,0.15
+88,"Chakraborty et al., 2017",TiO2,Single,PES,UF,CHD,0.08,897.8,C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl.C(C(C(C(C(C(=O)O)O)O)O)O)O.C(C(C(C(C(C(=O)O)O)O)O)O)O,1000,7,0,230,full,sol-gel,47,0.47
+89,"Huh et al., 2020",TiO2,Single,Ceramics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,6.5,60,420,UV,sol-gel,99.5,0.995
+91,"Shareef et al., 2020","TiO2, Ag",Single + metal,Ceramics,MF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,10,7,0,180,visible,dip-coating,90.5,0.905
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,7.5,0,120,UV,phase inversion,91.4,0.914
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,6.24,0,120,UV,phase inversion,65.7,0.657
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,6.86,0,120,UV,phase inversion,78,0.78
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,7.16,0,120,UV,phase inversion,85,0.85
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,7.49,0,120,UV,phase inversion,91.4,0.914
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,8.19,0,120,UV,phase inversion,78,0.78
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,8.66,0,120,UV,phase inversion,65,0.65
+93,"Zhou et al., 2020",TiO2,Single,PVDF,UF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,0.1,9.17,0,120,UV,phase inversion,64.7,0.647
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,5,0,60,visible,vacuum filtration,99,0.99
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,15,5,0,120,visible,vacuum filtration,99,0.99
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,5,0,120,visible,vacuum filtration,99,0.99
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,50,5,0,120,visible,vacuum filtration,95,0.95
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,5,0,120,visible,vacuum filtration,99,0.99
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,6,0,120,visible,vacuum filtration,99,0.99
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,120,visible,vacuum filtration,89.1,0.891
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,8,0,120,visible,vacuum filtration,82.4,0.824
+94,"You et al., 2022","g-C3N4, TiO2",Heterojunction,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,9,0,120,visible,vacuum filtration,71.8,0.718
+97,"Liang et al., 2020",Chitosan,Single,Chitosan ,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,60,60,visible,phase inversion,91.6,0.916
+97,"Liang et al., 2020",Chitosan,Single,Chitosan ,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,30,7,60,60,visible,phase inversion,90.9,0.909
+97,"Liang et al., 2020",Chitosan,Single,Chitosan ,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,40,7,60,60,visible,phase inversion,89.9,0.899
+97,"Liang et al., 2020",Chitosan,Single,Chitosan ,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,50,7,60,60,visible,phase inversion,90,0.9
+98,"Wang et al., 2017",g-C3N4,Single,Ceramics,MF,Phenol,1.46,94.11,C1=CC=C(C=C1)O,5,7,0,60,visible,dip-coating,26,0.26
+100,"Fischer et al., 2015",TiO2,Single,PVDF,MF,IBU,3.97,206.28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,100,7,0,150,UV,dip-coating,50,0.5
+100,"Fischer et al., 2015",TiO2,Single,PVDF,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,25,7,0,120,UV,dip-coating,55,0.55
+100,"Fischer et al., 2015",TiO2,Single,PES,MF,IBU,3.97,206.28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,100,7,0,150,UV,dip-coating,45,0.45
+100,"Fischer et al., 2015",TiO2,Single,PES,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,25,7,0,120,UV,dip-coating,68,0.68
+102,"Presumido et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0.5,6.9,0,200,UV,dip-coating,53,0.53
+102,"Presumido et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.5,6.9,0,200,UV,dip-coating,65,0.65
+102,"Presumido et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,EE2,3.67,296.4,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O,0.5,6.9,0,200,UV,dip-coating,62,0.62
+102,"Presumido et al., 2022","TiO2, GO",Single + 2D,Ceramics,MF,AMX,0.87,365.4,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,0.5,6.9,0,200,UV,dip-coating,49,0.49
+104,"Shi, Wan et al., 2020​","GO, g-C3N4",Single + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,5,6,60,360,visible,vacuum filtration,84.8,0.848
+105,"Shaku et al., 2020",BiVO4,Single,PES,UF,triclosan,4.76,289.5,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,10,7,0,60,UV,phase inversion,86,0.86
+106,"Gao et al., 2020",ZnIn2S4,Single,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,4,7,0,180,visible,phase inversion,87,0.87
+106,"Gao et al., 2020",ZnIn2S4,Single,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,4,7,0,180,visible,phase inversion,87,0.87
+106,"Gao et al., 2020",ZnIn2S4,Single,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,4,7,0,180,visible,phase inversion,87,0.87
+106,"Gao et al., 2020",ZnIn2S4,Single,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,4,7,0,180,visible,phase inversion,87,0.87
+109,"Zhou et al., 2021",None,No photocatalyst,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,10,7,0,60,UV,electrospinning,25,0.25
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,10,7,0,45,UV,electrospinning,97,0.97
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,10,11,0,30,UV,electrospinning,97,0.97
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,10,9,0,30,UV,electrospinning,95,0.95
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,10,5,0,30,UV,electrospinning,85,0.85
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,10,3,0,30,UV,electrospinning,60,0.6
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,20,7,0,30,UV,electrospinning,80,0.8
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,30,7,0,30,UV,electrospinning,80,0.8
+109,"Zhou et al., 2021",TiO2,Single,PVDF,MF,minocycline,0.05,457.5,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,50,7,0,30,UV,electrospinning,76,0.76
+114,"Xu et al., 2022",g-C3N4,Single,PES,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,6.6,3.8,0,240,visible,electrospinning,70,0.7
+114,"Xu et al., 2022",g-C3N4,Single,PES,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,8.9,7.6,0,240,visible,electrospinning,50,0.5
+115,"Xu et al., 2022",g-C3N4,Single,PES,UF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,6.6,6,0,180,visible,electrospinning,59.6,0.596
+115,"Xu et al., 2022",g-C3N4,Single,PES,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,8.9,6,0,180,visible,electrospinning,93,0.93
+117,"Cui et al., 2022","AgVO3, rGO, g-C3N4",Heterojunction + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,40,120,visible,phase inversion,88.5,0.885
+118,"Serra et al., 2021​",TiO2,Single,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,0,300,UV,phase inversion,77,0.77
+120,"Meng et al., 2022",None,No photocatalyst,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,40,70,full,phase inversion,37.9,0.379
+120,"Meng et al., 2022","TiO2, GO, ZnCdS",Heterojunction + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,25,7,0,360,full,phase inversion,87.5,0.875
+120,"Meng et al., 2022","TiO2, rGO, ZnCdS",Heterojunction + 2D,PVDF,MF,LEV,-0.39,361.4,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,25,7,40,70,full,phase inversion,75,0.75
+120,"Meng et al., 2022","TiO2, rGO, ZnCdS",Heterojunction + 2D,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,25,7,40,70,full,phase inversion,68,0.68
+120,"Meng et al., 2022","TiO2, rGO",Single + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,40,60,full,phase inversion,79,0.79
+120,"Meng et al., 2022","TiO2, ZnCdS",Heterojunction,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,40,60,full,phase inversion,84.2,0.842
+120,"Meng et al., 2022","TiO2, rGO, ZnCdS",Heterojunction + 2D,PVDF,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,40,60,full,phase inversion,92,0.92
+121,"Wang et al., 2022",Fe,Single,Cellulosics,MF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,10,7,120,60,visible,phase inversion,95.7,0.957
+122,"Labuto et al., 2022",TiO2,Single,PES,MF,EE2,3.67,296.4,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O,10,7,0,90,UV,sol-gel,80,0.8
+122,"Labuto et al., 2022",TiO2,Single,PES,MF,EE2,3.67,296.4,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O,10,7,0,180,UV,sol-gel,95,0.95
+125,"Fischer et al., 2018",TiO2,Single,PES,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,25,7,0,120,UV,dip-coating,76,0.76
+125,"Fischer et al., 2018",TiO2,Single,PES,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,25,7,0,100,UV,dip-coating,72,0.72
+125,"Fischer et al., 2018",TiO2,Single,PES,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,25,7,0,80,UV,dip-coating,69,0.69
+125,"Fischer et al., 2018",TiO2,Single,PES,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,25,7,0,60,UV,dip-coating,60,0.6
+125,"Fischer et al., 2018",TiO2,Single,PES,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,25,7,0,40,UV,dip-coating,54,0.54
+125,"Fischer et al., 2018",TiO2,Single,PES,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,25,7,0,20,UV,dip-coating,38,0.38
+129,"Wang et al., 2016",TiO2,Single,PVDF,UF,E2,4.01,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,0.2,5,0,90,UV,phase inversion,73.1,0.731
+129,"Wang et al., 2016",TiO2,Single,PVDF,UF,E1,3.13,270.4,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O,0.2,5,0,90,UV,phase inversion,93.4,0.934
+130,"Ismail et al., 2020",TiO2,Single,Ceramics,NF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,30,7,0,360,UV,phase inversion,78,0.78
+130,"Ismail et al., 2020",TiO2,Single,Ceramics,NF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,40,7,0,360,UV,phase inversion,67,0.67
+130,"Ismail et al., 2020",TiO2,Single,Ceramics,NF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,50,7,0,360,UV,phase inversion,60,0.6
+130,"Ismail et al., 2020",TiO2,Single,Ceramics,NF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,30,7,0,360,visible,phase inversion,53,0.53
+130,"Ismail et al., 2020",TiO2,Single,Ceramics,NF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,40,7,0,360,visible,phase inversion,53,0.53
+130,"Ismail et al., 2020",TiO2,Single,Ceramics,NF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,50,7,0,360,visible,phase inversion,45,0.45
+131,"Mohamad Said et al., 2021","Zn, Fe",Single + 2D,PES,NF,phenol,1.46,94.11,C1=CC=C(C=C1)O,5,4,0,330,UV,phase inversion,76,0.76
+132,"Grilli et al., 2015",TiO2,Single,Ceramics,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,1,7,30,120,full,sol-gel,63.3,0.633
+133,"Spoială et al., 2022",TiO2,Single,Chitosan ,MF,vancomycin,-3.1,1449.2,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,0.05,6,0,2880,visible,sol-gel,86.6,0.866
+133,"Spoială et al., 2022",TiO2,Single,Chitosan ,MF,meropenem,-0.6,383.5,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)N(C)C)C(=O)O)C(C)O,0.05,6,0,2880,visible,sol-gel,98.4,0.984
+133,"Spoială et al., 2022",TiO2,Single,Chitosan ,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,0.05,6,0,2880,visible,sol-gel,99.6,0.996
+133,"Spoială et al., 2022",TiO2,Single,Chitosan ,MF,clindamycin,2.16,425,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl,0.05,6,0,2880,visible,sol-gel,68.3,0.683
+133,"Spoială et al., 2022",TiO2,Single,Chitosan ,MF,ERY,3.06,733.9,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,0.05,6,0,2880,visible,sol-gel,88.9,0.889
+136,"Paredes et al., 2019",TiO2,Single,PVDF,MF,WAR,2.7,308.3,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,0.3,7.6,30,60,UV,phase inversion,95.3,0.953
+136,"Paredes et al., 2019",TiO2,Single,PVDF,MF,TMP,0.91,290.32,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,0.3,7.6,30,60,UV,phase inversion,99.4,0.994
+136,"Paredes et al., 2019",TiO2,Single,PVDF,MF,CBZ,2.45,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,0.3,7.6,30,60,UV,phase inversion,99.7,0.997
+136,"Paredes et al., 2019",TiO2,Single,PVDF,MF,MET,1.88,267.36,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,0.3,7.6,30,60,UV,phase inversion,96.3,0.963
+136,"Paredes et al., 2019",TiO2,Single,PVDF,MF,GEM,4.39,250.33,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O,0.3,7.6,30,60,UV,phase inversion,97.6,0.976
+137,"Song et al., 2023","GO, g-C3N4",Single + 2D,PVDF,NF,SMZ,0.89,253.28,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,1,7,0,120,visible,vacuum filtration,99.1,0.991
+137,"Song et al., 2023","GO, g-C3N4",Single + 2D,PVDF,NF,TMP,0.91,290.32,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,1,7,0,120,visible,vacuum filtration,99.6,0.996
+138,"Sun et al., 2020",Goethite (α-FeOOH),Single,Ceramics,NF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,12,7,0,60,UV,sol-gel,99,0.99
+139,"Liu et al., 2022","Ag, ZnO",Single + metal,Polyacrylates,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,0,120,visible,dip-coating,70,0.7
+141,"Li et al., 2023",Zeolite imidazole (ZIF-8),Single,PTFE,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,30,180,visible,dip-coating,79,0.79
+142,"Wu et al., 2023",None,No photocatalyst,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,180,UV,phase inversion,1,0.01
+142,"Wu et al., 2023",MIL-53(Fe),Single,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,0,180,UV,phase inversion,93,0.93
+143,"Song et al., 2023",g-C3N4,Single,PES,UF,SMZ,0.89,253.28,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,1,7,0,120,visible,vacuum filtration,99.1,0.991
+143,"Song et al., 2023",g-C3N4,Single,PES,UF,TMP,0.91,290.32,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,1,7,0,120,visible,vacuum filtration,99.4,0.994
+145,"Zhang Bao et al., 2023",g-C3N4,Single,Ceramics,UF,BPA,3.32,228.29,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,5,7,0,120,visible,sol-gel,95,0.95
+146,"Feng et al., 2023","Ag, Fe",Single + metal,PES,MF,SD,-0.2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,20,7,0,120,full,phase inversion,100,1
+148,"Damavandi et al., 2023",TiO2,Single,PES,UF,phenol,1.46,94.11,C1=CC=C(C=C1)O,60,7,0,180,UV,dip-coating,62,0.62
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,3,30,120,visible,self-assembly,90,0.9
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,5,30,30,visible,self-assembly,90,0.9
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,7,30,30,visible,self-assembly,90,0.9
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,9,30,30,visible,self-assembly,90.8,0.908
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,11,30,30,visible,self-assembly,90,0.9
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,3,30,120,visible,self-assembly,37,0.37
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,5,30,120,visible,self-assembly,65,0.65
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,7,30,120,visible,self-assembly,75,0.75
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,9,30,90,visible,self-assembly,78.4,0.784
+153,"Xu et al., 2023",Bi2MoO6,Single,Cellulosics,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,10,11,30,120,visible,self-assembly,78,0.78
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,5,0,120,UV,dip-coating,64.5,0.645
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,6,0,120,UV,dip-coating,71.5,0.715
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,8,0,120,UV,dip-coating,80,0.8
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,10,0,120,UV,dip-coating,95,0.95
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],10,10,0,120,UV,dip-coating,98,0.98
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],50,10,0,120,UV,dip-coating,92,0.92
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,10,120,0,Dark,dip-coating,15,0.15
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],30,10,0,120,visible,dip-coating,64,0.64
+202301,"Ghaderi et al., 2023",TiO2,Single,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],10,10,0,120,UV,dip-coating,84,0.84
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,MNZ,-0.02,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-],10,10,0,120,UV,dip-coating,91,0.91
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,30,5,0,120,UV,dip-coating,50,0.5
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,30,6,0,120,UV,dip-coating,70,0.7
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,30,8,0,120,UV,dip-coating,68,0.68
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,30,10,0,120,UV,dip-coating,90,0.9
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,10,10,0,120,UV,dip-coating,93,0.93
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,50,10,0,120,UV,dip-coating,78,0.78
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,30,10,120,0,Dark,dip-coating,19,0.19
+202301,"Ghaderi et al., 2023",CuO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,30,10,0,120,visible,dip-coating,60,0.6
+202301,"Ghaderi et al., 2023",TiO2,Single,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,10,10,0,120,UV,dip-coating,82,0.82
+202301,"Ghaderi et al., 2023",PdO-TiO2,Single + metal,Ceramics,MF,DPH,3.27,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,10,10,0,120,UV,dip-coating,95,0.95
+202303,"Utomo et al., 2023",CeO2,Single,PVDF,MF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,20,7,60,150,UV,phase inversion,85.6,0.856
+202303,"Utomo et al., 2023",CeO2,Single,PVDF,MF,Sulfanilamide,-0.62,172.21,C1=CC(=CC=C1N)S(=O)(=O)N,20,7,60,150,UV,phase inversion,84.8,0.848
+202304,"Dutta et al., 2024","MOF, Fe, Cu-POM",Single + metal,PVDF,NF,AMX,0.87,365.4,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,20,7,60,600,UV,phase inversion,98,0.98
+202304,"Dutta et al., 2024","MOF, Fe, Cu-POM",Single + metal,PVDF,NF,Azithromycin,4.02,749,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,20,7,60,600,UV,phase inversion,98.5,0.985
+202306,"Chakachaka et al., 2023",None,No photocatalyst,PES,MF,NAP,3.18,230.26,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,5,3,30,150,UV,phase inversion,12,0.12
+202306,"Chakachaka et al., 2023",CoFe2O4 ,Single,PES,MF,NAP,3.18,230.26,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,5,3,30,150,UV,phase inversion,66,0.66
+202306,"Chakachaka et al., 2023",CoFe2O4 ,Single,PES,MF,NAP,3.18,230.26,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,5,6.8,30,150,UV,phase inversion,72,0.72
+202306,"Chakachaka et al., 2023",CoFe2O4 ,Single,PES,MF,NAP,3.18,230.26,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,5,7.9,30,150,UV,phase inversion,82,0.82
+202306,"Chakachaka et al., 2023",CoFe2O4 ,Single,PES,MF,NAP,3.18,230.26,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,5,9,30,150,UV,phase inversion,55,0.55
+202307," Zhu et al., 2023",ZnCr-Zr-LBMO (layered bimetallic oxides),Single,Polyacrylates,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,1,60,40,full,phase inversion,42,0.42
+202307," Zhu et al., 2023",ZnCr-Zr-LBMO (layered bimetallic oxides),Single,Polyacrylates,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,3,60,40,full,phase inversion,98,0.98
+202307," Zhu et al., 2023",ZnCr-Zr-LBMO (layered bimetallic oxides),Single,Polyacrylates,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,5,60,40,full,phase inversion,98,0.98
+202307," Zhu et al., 2023",ZnCr-Zr-LBMO (layered bimetallic oxides),Single,Polyacrylates,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,7,60,40,full,phase inversion,99.3,0.993
+202307," Zhu et al., 2023",ZnCr-Zr-LBMO (layered bimetallic oxides),Single,Polyacrylates,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,9,60,40,full,phase inversion,98,0.98
+202308,"Nieto-Sandoval et al., 2023",g-C3N4,Single,PVDF,UF,MET,1.88,267.36,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,0.25,6.1,0,1440,full,phase inversion,88,0.88
+202308,"Nieto-Sandoval et al., 2023",g-C3N4,Single,PVDF,UF,Venlafaxine,3.2,277.4,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O,0.25,6.1,0,1440,full,phase inversion,91,0.91
+202308,"Nieto-Sandoval et al., 2023",g-C3N4,Single,PVDF,UF,DCF,4.51,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0.25,6.1,0,1440,full,phase inversion,72,0.72
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2, TiO2",Heterojunction + 2D,PVDF,UF,PRO,3.72,342.2,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl,6,7,0,50,UV,dip-coating,53,0.53
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2, TiO2",Heterojunction + 2D,PVDF,UF,ACE,0.8,222.67,CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl,6,7,0,50,UV,dip-coating,66.7,0.667
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2, TiO2",Heterojunction + 2D,PVDF,UF,ASP,1.19,180.16,CC(=O)OC1=CC=CC=C1C(=O)O,6,7,0,50,UV,dip-coating,50,0.5
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2, TiO2",Heterojunction + 2D,PVDF,UF,SMZ,0.89,253.28,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,6,7,0,50,UV,dip-coating,64,0.64
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2",Single + 2D,PVDF,UF,PRO,3.72,342.2,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl,6,7,0,50,UV,dip-coating,0,0
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2",Single + 2D,PVDF,UF,ACE,0.8,222.67,CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl,6,7,0,50,UV,dip-coating,0,0
+202402,"Chen et al., 2024","NiCo-MOFs, MoS2",Single + 2D,PVDF,UF,ASP,1.19,180.16,CC(=O)OC1=CC=CC=C1C(=O)O,6,7,0,50,UV,dip-coating,10,0.1
+202405,"Chen et al., 2024​​.",None,No photocatalyst,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,8,90,0,Dark,phase inversion,12.3,0.123
+202405,"Chen et al., 2024​​.",CoFe-MOF/TiO2,Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20,8,0,90,full,phase inversion,73.2,0.732
+202405,"Chen et al., 2024​​.",CoFe-MOF/TiO2,Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,10,8,0,90,full,phase inversion,87.9,0.879
+202405,"Chen et al., 2024​​.",CoFe-MOF/TiO2,Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,30,8,0,90,full,phase inversion,53.5,0.535
+202405,"Chen et al., 2024​​.",CoFe-MOF/TiO2,Heterojunction,PVDF,UF,TC,-1.37,444.4,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,40,8,0,90,full,phase inversion,37.1,0.371
+202405,"Chen et al., 2024​​.",CoFe-MOF/TiO2,Heterojunction,PVDF,UF,CIP,0.28,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,20,8,0,90,full,phase inversion,65,0.65
+202405,"Chen et al., 2024​​.",CoFe-MOF/TiO2,Heterojunction,PVDF,UF,OTC,-0.9,460.4,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O,20,8,0,90,full,phase inversion,70,0.7
