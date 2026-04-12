@@ -10,7 +10,6 @@ This repository contains the data and Python codes used to develop machine learn
 
 ```text
 PPCP-PM-ML/
-├── code/
 ├── data/
 ├── LICENSE
 └── README.md
